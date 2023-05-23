@@ -1,7 +1,7 @@
 # ReactTweetBox
 
 ## About:
-Introducing my first React project, the ReactTweetBox! With the help of <a href="https://youtu.be/dGcsHMXbSOA">developedbyed's tutorial</a>, I created a tweet.js component that beautifully displays tweets in app.js. This project gave me a good understanding of how React works and its powerful capabilities. Let's dive into the world of React development together!
+Introducing my first React project, the ReactTweetBox! With the help of <a href="https://youtu.be/dGcsHMXbSOA">developedbyed's tutorial</a>, I created a tweet.js component that beautifully displays tweets in app.js. This project gave me a good understanding of how React works and its powerful capabilities. 
 
 ## Features:
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer congue vel nunc
 Maecenas libero lorem, placerat et lacus sit amet, eleifend semper lectus. Quisque mollis justo id felis porta scelerisque. Vestibulum sollicitudin, elit a tincidunt accumsan, dolor magna eleifend ipsum, a posuere lorem eros nec dui. Ut eget fermentum mi, non egestas tellus. Maecenas pharetra mi sit amet semper hendrerit. Quisque vitae metus nec eros pellentesque efficitur. Phasellus at nibh volutpat, lacinia ex non, mollis arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare orci et diam suscipit cursus. Vivamus hendrerit porta fringilla. Aliquam laoreet nec nunc eget tristique. Vivamus eget ultricies nulla, id viverra sapien. Sed vehicula nunc id orci tempus condimentum. Nulla imperdiet massa erat, in aliquet elit fermentum eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 
 ## Screenshots: 
-<!-- <img style="margin: 10px" src="" alt="Screenshot"/> -->
+<img style="margin: 10px" src="https://github.com/Govind-S-Nair/ReactTweetBox/blob/master/images/projectreact.png" alt="Screenshot"/>
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the MIT License. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
