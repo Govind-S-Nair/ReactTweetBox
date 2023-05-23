@@ -1,7 +1,7 @@
 # ReactTweetBox
 
 ## About:
-Introducing my first React project, the ReactTweetBox! With the help of <a href="https://www.youtube.com/watch?v=dGcsHMXbSOA&t=1919s">developedbyed's tutorial</a>, I created a tweet.js component that beautifully displays tweets in app.js. This project gave me a good understanding of how React works and its powerful capabilities. Let's dive into the world of React development together!
+Introducing my first React project, the ReactTweetBox! With the help of <a href="https://youtu.be/dGcsHMXbSOA">developedbyed's tutorial</a>, I created a tweet.js component that beautifully displays tweets in app.js. This project gave me a good understanding of how React works and its powerful capabilities. Let's dive into the world of React development together!
 
 ## Features:
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
