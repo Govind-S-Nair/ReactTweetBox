@@ -24,15 +24,16 @@ Introducing my first React project, the ReactTweetBox! Developed with the help o
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command `git clone https://github.com/Govind-S-Nair/ReactTweetBox` to clone the repository to your local machine.
+<p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
 
 ### Opening the website in a Web Browser:
-<b>Note: You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</b>
 1. Open a terminal or command prompt and navigate to the directory where the React website files are located.
 2. Install the necessary dependencies by running the command: `npm install`.
 3. Once the installation is complete, start the development server by running the command: `npm start`.
 4. The React website will now be running on a local server and can be accessed through your web browser.
 5. Open your preferred web browser and enter the URL: http://localhost:3000 (or a different port if specified).
 6. The website should now load in your browser, allowing you to explore its features and functionality.
+<p><b>Note:</b> You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</p>
 
 ## Screenshots: 
 <img style="margin: 10px" src="https://github.com/Govind-S-Nair/ReactTweetBox/blob/master/images/projectreact.png" alt="ReactTweetBox"/>
