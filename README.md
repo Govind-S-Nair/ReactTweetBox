@@ -6,12 +6,13 @@ Introducing my first React project, the ReactTweetBox! Developed with the help o
 ## Features:
 1. The code is organized into components, with the main component defined in App.js and the tweet component defined in Tweet.js. This follows React's component-based architecture, allowing for modular and reusable code.
 2. The code uses JSX (JavaScript XML) syntax, which allows mixing HTML-like elements and JavaScript code within the same file. JSX is a syntax extension for JavaScript used in React.
-3. Both App.js and Tweet.js define functional components using the function keyword. Functional components are simpler and easier to read/write compared to class components.
-4. The Tweet component accepts props (name, message, and likes) as parameters. Props are used to pass data from parent components (App.js) to child components (Tweet.js), allowing for dynamic content and reusability.
+3. The code uses the useState hook from React to manage the state of the users array. It allows for storing and updating the list of users. 
+4. The <Tweet> component receives props such as name and message. Props are used to pass data from parent components (App.js) to child components (Tweet.js), allowing for dynamic content and reusability.
 5. The code imports a CSS file (App.css) and applies styles to the components using class names. This demonstrates the usage of CSS for styling React components.
-6. In App.js, multiple instances of the Tweet component are rendered within the div element. This showcases the concept of component composition, where smaller components are combined to create a larger, more complex UI.
-7. The content of each Tweet component is dynamic and can be customized using props. The name, message, and likes props are passed to each instance of the Tweet component, allowing for personalized and variable content.
-8. Both App.js and Tweet.js export their respective components using the export default statement. This allows these components to be imported and used in other parts of the codebase.
+6. Both App.js and Tweet.js are functional components written using the arrow function syntax. This is a feature of React that allows for creating components using JavaScript functions.
+7. The <Tweet> component is composed within the <div> element in the App.js component. This composition allows for reusing the <Tweet> component for each user in the users array.
+8. The users and setUsers variables are created using array destructuring in the App.js component. The users variable represents the current state value, and setUsers is a function used to update the state.
+9. The content of each tweet box (name and message) is dynamically generated based on the data in the users array. This allows for displaying different names and messages for each tweet box.
 
 ## Usage Instructions:
 
