@@ -10,7 +10,7 @@ Introducing my first React project, the ReactTweetBox! Developed with the help o
 4. The <Tweet> component receives props such as name and message. Props are used to pass data from parent components (App.js) to child components (Tweet.js), allowing for dynamic content and reusability.
 5. The code imports a CSS file (App.css) and applies styles to the components using class names. This demonstrates the usage of CSS for styling React components.
 6. Both App.js and Tweet.js are functional components written using the arrow function syntax. This is a feature of React that allows for creating components using JavaScript functions.
-7. The <Tweet> component is composed within the <div> element in the App.js component. This composition allows for reusing the <Tweet> component for each user in the users array.
+7. The <Tweet> component is composed within the `<div>` element in the App.js component. This composition allows for reusing the <Tweet> component for each user in the users array.
 8. The users and setUsers variables are created using array destructuring in the App.js component. The users variable represents the current state value, and setUsers is a function used to update the state.
 9. The content of each tweet box (name and message) is dynamically generated based on the data in the users array. This allows for displaying different names and messages for each tweet box.
 
