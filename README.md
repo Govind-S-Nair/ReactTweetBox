@@ -1,4 +1,8 @@
 # ReactTweetBox
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Introducing my first React project, the ReactTweetBox! Developed with the help of <a href="https://youtu.be/dGcsHMXbSOA">developedbyed's tutorial</a>, it demonstrates the immense capabilities of React. With a component-based architecture, JSX syntax, and dynamic props, the tweet.js component beautifully displays tweets in app.js. CSS styling and component composition add visual appeal and a seamless user experience. A valuable learning journey that laid a solid foundation for future React projects.
