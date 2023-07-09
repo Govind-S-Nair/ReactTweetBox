@@ -1,10 +1,10 @@
 # ReactTweetBox
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://react.dev">
       <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React"/>
@@ -35,7 +35,7 @@ Introducing my first React project, the ReactTweetBox! Developed with the help o
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `git clone https://github.com/Govind-S-Nair/ReactTweetBox` to clone the repository to your local machine.
+2. Run the command `git clone https://github.com/g0v1ndN/ReactTweetBox` to clone the repository to your local machine.
 <p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
 
 ### Opening the website in a Web Browser:
@@ -48,7 +48,7 @@ Introducing my first React project, the ReactTweetBox! Developed with the help o
 <p><b>Note:</b> You need to have Node.js installed on your computer. If you don't have it installed, please download and install Node.js from the official website (https://nodejs.org).</p>
 
 ## Screenshots: 
-<img src="https://github.com/Govind-S-Nair/ReactTweetBox/blob/master/images/projectreact.png" alt="ReactTweetBox"/>
+<img src="https://github.com/g0v1ndN/ReactTweetBox/blob/master/images/projectreact.png" alt="ReactTweetBox"/>
 
 ## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/ReactTweetBox/blob/master/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/ReactTweetBox/blob/master/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
